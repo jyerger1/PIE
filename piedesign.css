@@ -1,0 +1,36 @@
+.circle {
+	width: 450px;
+}
+
+.quarter-one {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border-top-left-radius: 200px;
+	float: left;
+}
+
+.quarter-two {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	border-top-right-radius: 200px;
+	margin-left: 201px;
+
+}
+
+.quarter-three {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	border-bottom-left-radius: 200px;
+	margin-top: 1px;
+}
+
+.quarter-four {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	border-bottom-right-radius: 200px;
+	margin-top: -200px;
+	margin-left: 201px;
